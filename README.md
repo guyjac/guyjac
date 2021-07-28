@@ -10,6 +10,8 @@ I recently graduated from the University of Essex with a degree in Computer Scie
 
 🔭 I'm currently working on a C# CRUD project which will assist users with customs entries
 
+🔭 I'm also currently working on fleshing out my profile! More to come soon.
+
 ----
 
 ### My tech stack
