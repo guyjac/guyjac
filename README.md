@@ -12,6 +12,8 @@ I recently graduated from the University of Essex with a degree in Computer Scie
 
 ----
 
+### My tech stack
+
 ![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=csharp)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=orange)&nbsp;
