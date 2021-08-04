@@ -10,7 +10,7 @@ I recently graduated from the University of Essex with a degree in Computer Scie
 
 🔭 I'm currently working on a C# CRUD project which will assist users with customs entries (Private repo)
 
-💍 I'm also currently working on an Ardunio metal detector project, powered by a ATTINY85! 
+💍 [I'm also currently working on an Ardunio metal detector project, powered by a ATTINY85!](https://github.com/guyjac/pinpointer)
 
 ----
 
